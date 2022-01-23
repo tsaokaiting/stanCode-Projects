@@ -6,7 +6,5 @@ This repository holds my programming projects done during the period of stanCode
 
 # Project Source Codes:
 
-•	Breakout Game
-
-	animation & game designing
+Breakout Game
 
