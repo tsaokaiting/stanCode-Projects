@@ -8,5 +8,5 @@ This repository holds my programming projects done during the period of stanCode
 
 •	Breakout Game
 
-o	animation & game designing
+	animation & game designing
 
