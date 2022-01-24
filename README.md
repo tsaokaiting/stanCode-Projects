@@ -5,6 +5,9 @@ This repository holds my programming projects done during the period of stanCode
 
 ## Project Source Codes:
 
+* [Hangman Game](https://github.com/tsaokaiting/stanCode-Projects/tree/main/hangman%20game)
+  * python semantics & syntax
+
 * [Breakout Game](https://github.com/tsaokaiting/stanCode-Projects/tree/main/breakout%20game)
   * animation & game designing
 
